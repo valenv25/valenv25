@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 🌱 I’m currently studying electronic engineering at the **Instituto Tecnológico de Buenos Aires**
+- 🌱 I’m currently studying electronics engineering at the **Instituto Tecnológico de Buenos Aires**
